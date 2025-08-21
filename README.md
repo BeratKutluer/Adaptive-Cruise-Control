@@ -57,4 +57,4 @@ The simulation runs a scenario where the leader car accelerates, and the followe
 
 * **Final Distance (d):** The system successfully maintains a final distance of approximately 10 meters.
 * **Final Velocities:** Both the follower and leader cars reach a stable velocity, with the follower successfully matching the leader's speed.
-* **PID Settings:** The final PID controller settings used for the successful simulation are P=1.81, I=2.0, D=0.75.
+* **PID Settings:** The final PID controller settings used for the successful simulation are P=1.81, I=1.510, D=0.75.
