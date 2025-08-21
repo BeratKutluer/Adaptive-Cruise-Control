@@ -41,7 +41,8 @@ The simulation runs a scenario where the leader car accelerates, and the followe
 
 The following graphs show the dynamic behavior of the system over time.
 
-![Position Graph](https://github.com/BeratKutluer/Adaptive-Cruise-Control/blob/main/position.png https://github.com/BeratKutluer/Adaptive-Cruise-Control/blob/main/position1.png)
+![Position Graph](https://github.com/BeratKutluer/Adaptive-Cruise-Control/blob/main/position.png) 
+
 
 *The position graph shows both cars' positions, confirming the follower car successfully tracks the leader at a constant distance.*
 
