@@ -28,7 +28,7 @@ Here are the key visuals and the final simulation results demonstrating the syst
 
 The main Simulink model shows the complete ACC system architecture.
 
-![Simulink Model](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/image_124c8f.png)
+![Simulink Model](https://github.com/BeratKutluer/Adaptive-Cruise-Control/blob/main/model.png)
 
 ### Final Simulation Results
 
@@ -41,7 +41,7 @@ The simulation runs a scenario where the leader car accelerates, and the followe
 
 The following graphs show the dynamic behavior of the system over time.
 
-![Position Graph](https://github.com/YourUsername/YourRepoName/blob/main/path/to/your/image_124ff4.png)
+![Position Graph]()
 
 *The position graph shows both cars' positions, confirming the follower car successfully tracks the leader at a constant distance.*
 
